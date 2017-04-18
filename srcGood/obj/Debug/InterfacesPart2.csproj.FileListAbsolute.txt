@@ -1,0 +1,12 @@
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\bin\Debug\InterfacesPart2.exe.config
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\bin\Debug\InterfacesPart2.exe
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\bin\Debug\InterfacesPart2.pdb
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\obj\Debug\InterfacesPart2.csprojResolveAssemblyReference.cache
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\obj\Debug\InterfacesPart2.exe
+E:\WorkFolder\ChannelApps\InterfacesPart2\InterfacesPart2\obj\Debug\InterfacesPart2.pdb
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\bin\Debug\InterfacesPart2.exe.config
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\bin\Debug\InterfacesPart2.exe
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\bin\Debug\InterfacesPart2.pdb
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\obj\Debug\InterfacesPart2.csprojResolveAssemblyReference.cache
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\obj\Debug\InterfacesPart2.exe
+C:\Users\Николай\Desktop\intrefaces\interfacesLesson\srcGood\obj\Debug\InterfacesPart2.pdb
