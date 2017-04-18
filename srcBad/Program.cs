@@ -38,7 +38,7 @@ namespace InterfacesPart2Bad
             Console.ReadKey();
         }
 
-        public static int SpecialNasaMethod(int power, int mass) // метод для вычесления максимальной скорости
+        public static int SpecialNasaMethod(int power, int mass) // метод для вычисления максимальной скорости
         {
             return (mass / power * 10) + 82;
         }
